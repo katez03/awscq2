@@ -1,22 +1,24 @@
-Welcome to Lumache's documentation!
+AWS Cloud Quest: Cloud Practitioner
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Group 2
+*Angel Kate Galia,*
+*Noli Madrazo,*
+*Kim Dexter Calim, and*
+*Adolfo Reoja*
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+
 
 .. note::
 
-   This project is under active development.
+   This project is under development.
 
 Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
    usage
    api
