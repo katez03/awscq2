@@ -8,7 +8,6 @@ Group 2
 *Adolfo Reoja*
 
 
-
 .. note::
 
    This project is under development.
