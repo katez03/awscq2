@@ -26,4 +26,4 @@ Contents
 
    'Introduction'
    'Preperation steps'
-aws.amazon.com
+
