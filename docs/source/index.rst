@@ -24,6 +24,6 @@ Contents
    :maxdepth: 2
    :caption: Contents:
 
-   Introduction
+   'Introduction'
    'Preperation steps'
 
