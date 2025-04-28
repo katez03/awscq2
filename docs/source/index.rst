@@ -2,9 +2,9 @@ AWS Cloud Quest: Cloud Practitioner!
 ===================================
 
 By
-Kim Dexter Calim
-Angel Kate Galia
-Noli Madrazo
+Kim Dexter Calim,
+Angel Kate Galia,
+Noli Madrazo,
 Adolfo Reoja
 
 *OVERVIEW*
