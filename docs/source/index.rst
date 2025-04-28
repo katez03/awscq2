@@ -2,10 +2,10 @@ Web App Development: React & Node.js
 =========================================
 
 Group 3  
-*Jane Doe,*  
-*John Smith,*  
-*Sarah Connor,*  
-*Mike Jordan*
+*Kim Dexter Calim,*  
+*Angel Kate Galia,*  
+*Noli Madrazo,*  
+*Adolfo Reoja*
 
 .. note::
 
