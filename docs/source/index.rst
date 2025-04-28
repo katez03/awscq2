@@ -1,30 +1,29 @@
-Web App Development: React & Node.js  
-=========================================
+AWS Cloud Quest: Cloud Practitioner!
+===================================
 
-Group 3  
-*Kim Dexter Calim,*  
-*Angel Kate Galia,*  
-*Noli Madrazo,*  
-*Adolfo Reoja*
+By
+Kim Dexter Calim
+Angel Kate Galia
+Noli Madrazo
+Adolfo Reoja
+
+*OVERVIEW*
+
+This project is part of the AWS Cloud Quest <https://aws.amazon.com/training/digital/aws-cloud-quest/>_ series.
+
+For instructions on how to use this project, refer to the :ref:`usage` section.
 
 .. note::
 
-   This project is in progress.
+   This project is under active development.
 
-Contents  
+Contents
 --------
 
-.. toctree::  
-   :maxdepth: 2  
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
-   introduction  
-   setup  
-   components  
-   api
-
-# Web App Development: React & Node.js Overview
-
-## Overview
-
-* This project focuses on creating a full-stack web application using React for the front end and Node.js for the back end.
-* Work on integrating user interfaces, connecting to databases, and deploying the web app to cloud services.
+   Introduction
+   Preperation steps
+aws.amazon.com
