@@ -20,8 +20,7 @@ Contents
    introduction  
    setup  
    components  
-   api  
-   noli
+   api
 
 # Web App Development: React & Node.js Overview
 
@@ -29,7 +28,3 @@ Contents
 
 * This project focuses on creating a full-stack web application using React for the front end and Node.js for the back end.
 * Work on integrating user interfaces, connecting to databases, and deploying the web app to cloud services.
-
-## Noli
-
-*This section could be used to add further content related to "noli". You can describe specific features, tasks, or concepts here.*  
