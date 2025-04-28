@@ -1,28 +1,30 @@
-AWS Cloud Quest: Cloud Practitioner
-===================================
+Web App Development: React & Node.js  
+=========================================
 
-Group 2
-*Angel Kate Galia,*
-*Noli Madrazo,*
-*Kim Dexter Calim, and*
-*Adolfo Reoja*
-
+Group 3  
+*Jane Doe,*  
+*John Smith,*  
+*Sarah Connor,*  
+*Mike Jordan*
 
 .. note::
 
-   This project is under development.
+   This project is in progress.
 
-Contents
+Contents  
 --------
 
-.. toctree::
-   :maxdepth: 2
+.. toctree::  
+   :maxdepth: 2  
 
-   usage
-   api
-# AWS Cloud Quest: Cloud Practitioner Introduction
+   introduction  
+   setup  
+   components  
+   api  
+
+# Web App Development: React & Node.js Overview
 
 ## Overview
 
-* AWS Cloud Quest is the first and only role-playing game that helps you build on-demand AWS Cloud skills.
-* Collect gems and earn points as you build real solutions inside a live AWS environment.
+* This project focuses on creating a full-stack web application using React for the front end and Node.js for the back end.
+* Work on integrating user interfaces, connecting to databases, and deploying the web app to cloud services.
