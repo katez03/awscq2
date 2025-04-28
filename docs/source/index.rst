@@ -1,7 +1,7 @@
 AWS Cloud Quest: Cloud Practitioner!
 ===================================
 
-By
+By:
 Kim Dexter Calim,
 Angel Kate Galia,
 Noli Madrazo,
@@ -24,6 +24,6 @@ Contents
    :maxdepth: 2
    :caption: Contents:
 
-   Introduction
-   Preperation steps
+   'Introduction'
+   'Preperation steps'
 aws.amazon.com
