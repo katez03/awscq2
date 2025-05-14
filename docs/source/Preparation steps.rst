@@ -25,6 +25,7 @@ Mobile browsers are not supported.
    :caption: Amazon Account:
 
    Create an account on Amazon
+   Login on to Amazon account
 
 Content
 -------
