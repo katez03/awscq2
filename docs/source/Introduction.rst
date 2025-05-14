@@ -6,32 +6,32 @@
     <title>My Simple Static Website</title>
     <style>
         body {
-            font-family: sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 20px;
-            background-color: #f4f4f4;
-            color: #333;
+            font-family: sans-serif; /* Sets a common sans-serif font */
+            line-height: 1.6; /* Adds spacing between lines of text */
+            margin: 0; /* Removes default margin around the body */
+            padding: 20px; /* Adds padding inside the body */
+            background-color: #f4f4f4; /* Sets a light grey background color */
+            color: #333; /* Sets a dark grey text color */
         }
         .container {
-            max-width: 800px;
-            margin: auto;
-            background: #fff;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 800px; /* Sets a maximum width for the content area */
+            margin: auto; /* Centers the container horizontally */
+            background: #fff; /* Sets a white background for the container */
+            padding: 20px; /* Adds padding inside the container */
+            border-radius: 8px; /* Rounds the corners of the container */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
         }
         h1 {
-            color: #0056b3;
+            color: #0056b3; /* Sets a blue color for the main heading */
         }
         p {
-            margin-bottom: 15px;
+            margin-bottom: 15px; /* Adds space below paragraphs */
         }
         .footer {
-            margin-top: 20px;
-            text-align: center;
-            font-size: 0.9em;
-            color: #666;
+            margin-top: 20px; /* Adds space above the footer */
+            text-align: center; /* Centers the text in the footer */
+            font-size: 0.9em; /* Makes the footer text slightly smaller */
+            color: #666; /* Sets a medium grey color for the footer text */
         }
     </style>
 </head>
