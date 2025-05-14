@@ -22,7 +22,7 @@ Browser
 
 Mobile browsers are not supported.
 
-Following Steps
+Content
 ---------------
 * Create an account on Amazon
-* Login to AWS Cloud Quest: Cloud Practitioner with Amazon account
+
