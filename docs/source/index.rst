@@ -26,4 +26,3 @@ Contents
 
    Introduction
    Preparation steps
-   Create an account on Amazon
