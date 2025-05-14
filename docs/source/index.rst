@@ -25,4 +25,4 @@ Contents
    :caption: Contents:
 
    Introduction
-   Preperation steps
+   Preparation steps
