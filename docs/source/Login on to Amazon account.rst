@@ -18,30 +18,40 @@ Steps to sign in to AWS Training and Certification
 #. Go to AWS Skill Builder
 #. Select **SIGN IN TO AWS SKILL BUILDER**
 
-   .. figure:: ../images/login_account_1.png
-      :alt: AWS Skill Builder Sign In
+.. image:: pictures/0001-Signin.png
+   :alt: Screenshot of AWS Cloud Quest
+   :align: center
+   :width: 600px
 
 #. The AWS Training and Certification login interface appears, select **Login with Amazon**
 
-   .. figure:: ../images/login_account_2.png
-      :alt: AWS Training and Certification Login Options
+.. image:: pictures/0002-Signin.png
+   :alt: Screenshot of AWS Cloud Quest
+   :align: center
+   :width: 600px
 
 #. Amazon login page appears:
    Enter **Email or mobile phone number**
    Enter **Password**
    Then, select **Sign-in**
 
-   .. figure:: ../images/login_account_3.png
-      :alt: Amazon Login Page
+.. image:: pictures/0003-Signin.png
+   :alt: Screenshot of AWS Cloud Quest
+   :align: center
+   :width: 600px
 
 #. After logging in, the AWS Training and Certification interface appears.
 
-   .. figure:: ../images/login_account_4.png
-      :alt: AWS Training and Certification Dashboard
+.. image:: pictures/0004-Signin.png
+   :alt: Screenshot of AWS Cloud Quest
+   :align: center
+   :width: 600px
 
 .. note::
 
-   During the login process, as shown in the picture, select **Allow**
+#.  During the login process, as shown in the picture, select **Allow**
 
-   .. figure:: ../images/login_account_5.png
-      :alt: Allow Permission
+.. image:: pictures/0005-Signin.png
+   :alt: Screenshot of AWS Cloud Quest
+   :align: center
+   :width: 600px
