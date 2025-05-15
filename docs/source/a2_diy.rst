@@ -99,63 +99,63 @@ After completing the lab, the player does DIY by taking the following steps.
 
 #. View your newly launched instances by selecting **View Instances**.
 
-   .. image:: pictures/0014-diy-A2.png
+   .. image:: pictures/00014-diy-A2.png
       :alt: Placeholder screenshot for A2 DIY Step 14 (View Instances)
       :align: center
       :width: 600px
 
 #. After creating two EC2 instances, copy the **Instance ID** for both.
 
-   .. image:: pictures/0015-diy-A2.png
+   .. image:: pictures/00015-diy-A2.png
       :alt: Placeholder screenshot for A2 DIY Step 15 (Copy Instance IDs)
       :align: center
       :width: 600px
 
 #. Paste the Instance ID from the first Availability Zone (AZ1) into the validation form.
 
-   .. image:: pictures/0016-diy-A2.png
+   .. image:: pictures/00016-diy-A2.png
       :alt: Placeholder screenshot for A2 DIY Step 16 (Paste ID in AZ1)
       :align: center
       :width: 600px
 
 #. Paste the Instance ID from the second Availability Zone (AZ2) into the validation form.
 
-   .. image:: pictures/0017-diy-A2.png
+   .. image:: pictures/00017-diy-A2.png
       :alt: Placeholder screenshot for A2 DIY Step 17 (Paste ID in AZ2)
       :align: center
       :width: 600px
 
 #. Select **VALIDATE** to check your solution.
 
-   .. image:: pictures/0018-diy-A2.png
+   .. image:: pictures/00018-diy-A2.png
       :alt: Placeholder screenshot for A2 DIY Step 18 (Select VALIDATE)
       :align: center
       :width: 600px
 
 #. Confirm that the **VALIDATION MESSAGE** indicates "Success! …" after validating.
 
-   .. image:: pictures/0019-diy-A2.png
+   .. image:: pictures/00019-diy-A2.png
       :alt: Placeholder screenshot for A2 DIY Step 19 (Validation Success message)
       :align: center
       :width: 600px
 
 #. Select **EXIT** to close the validation interface.
 
-   .. image:: pictures/0020-diy-A2.png
+   .. image:: pictures/00020-diy-A2.png
       :alt: Placeholder screenshot for A2 DIY Step 20 (Select EXIT)
       :align: center
       :width: 600px
 
 #. In the **ASSIGNMENT** interface, select **COLLECT** to claim your rewards.
 
-   .. image:: pictures/0021-diy-A2.png
+   .. image:: pictures/00021-diy-A2.png
       :alt: Placeholder screenshot for A2 DIY Step 21 (Collect Rewards)
       :align: center
       :width: 600px
 
 #. You have successfully completed the DIY activity and received your rewards.
 
-   .. image:: pictures/0022-diy-A2.png
+   .. image:: pictures/00022-diy-A2.png
       :alt: Placeholder screenshot for A2 DIY Step 22 (Get rewarded - final step)
       :align: center
       :width: 600px
