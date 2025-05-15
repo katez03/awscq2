@@ -28,3 +28,6 @@ Contents
    Preparation steps
    Getting acquainted with AWS Cloud Quest
    a1
+   a2
+   a3
+   a4
