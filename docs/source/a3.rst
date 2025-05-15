@@ -1,0 +1,58 @@
+.. _a3_connect_ec2:
+
+==================================
+A3 - Connect to an EC2 Instance
+==================================
+
+Overview
+--------
+Lab #3 of AWS Cloud Quest: Cloud Practitioner is Connect to an EC2 Instance. After receiving the Assignment 2 award, continue to perform the following steps to begin Assignment 3.
+
+Content
+--------
+.. toctree::
+    :maxdepth: 2
+
+    A3_learn
+    A3_plan
+    A3_practice
+    A3_diy
+
+Perform
+--------
+Follow these initial steps to access the A3 challenge:
+
+#. In the **ASSIGNMENT** section, select **ROUTE AND GO** to begin Assignment 3.
+
+   .. image:: pictures/0001-A3.png
+      :alt: Placeholder screenshot for A3 Step 1 (Route and Go)
+      :align: center
+      :width: 600px
+
+#. Proceed by selecting **NEXT**.
+
+   .. image:: pictures/0002-A3.png
+      :alt: Placeholder screenshot for A3 Step 2 (Select NEXT)
+      :align: center
+      :width: 600px
+
+#. Review the **Computing Solutions** details and select **ACCEPT** to take the challenge.
+
+   .. image:: pictures/0003-A3.png
+      :alt: Placeholder screenshot for A3 Step 3 (Read Solutions and Accept)
+      :align: center
+      :width: 600px
+
+#. Select **GO TO SOLUTION CENTER** to view the lab steps.
+
+   .. image:: pictures/0004-A3.png
+      :alt: Placeholder screenshot for A3 Step 4 (Go to Solution Center)
+      :align: center
+      :width: 600px
+
+#. Access the **Getting Started Learn** resources.
+
+   .. image:: pictures/0005-A3.png
+      :alt: Placeholder screenshot for A3 Step 5 (Getting Started Learn)
+      :align: center
+      :width: 600px
