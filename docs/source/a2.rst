@@ -1,0 +1,57 @@
+.. _a2_launch_ec2:
+
+==================================
+A2 - Launch an Amazon EC2 Instance
+==================================
+
+Overview
+--------
+Lab #2 of AWS Cloud Quest: Cloud Practitioner is Launch one EC2 instance. This assignment guides you through the initial steps to access and accept the EC2 instance launch challenge.
+
+Content
+--------
+.. toctree::
+    :maxdepth: 2
+
+    A2_learn
+    A2_plan
+    A2_practice
+    A2_diy
+
+Perform
+--------
+
+#. Go to **ASSIGNMENTS**, under **Cloud First Steps**, select **ROUTE AND GO**.
+
+   .. image:: pictures/0001-A2.png
+      :alt: Placeholder screenshot for A2 Step 1 (Go to Assignments and Route)
+      :align: center
+      :width: 600px
+
+#. Select the icon as shown.
+
+   .. image:: pictures/0002-A2.png
+      :alt: Placeholder screenshot for A2 Step 2 (Select specific icon)
+      :align: center
+      :width: 600px
+
+#. After entering the **Cloud First Steps** interface, select **NEXT** to see more about **Amazon EC2**, **Availability Zone**, **AWS Region**.
+
+   .. image:: pictures/0003-A2.png
+      :alt: Placeholder screenshot for A2 Step 3 (Navigate Cloud First Steps interface)
+      :align: center
+      :width: 600px
+
+#. Select **ACCEPT**.
+
+   .. image:: pictures/0004-A2.png
+      :alt: Placeholder screenshot for A2 Step 4 (Accept the challenge)
+      :align: center
+      :width: 600px
+
+#. Select **GO TO SOLUTION CENTER** to move to the next steps of Assignment.
+
+   .. image:: pictures/0005-A2.png
+      :alt: Placeholder screenshot for A2 Step 5 (Go to Solution Center)
+      :align: center
+      :width: 600px
