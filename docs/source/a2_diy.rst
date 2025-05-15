@@ -71,28 +71,28 @@ After completing the lab, the player does DIY by taking the following steps.
 
 #. Proceed from Add Tags to **Next: Configure Security Group**.
 
-   .. image:: pictures/0010-diy-A2.png
+   .. image:: pictures/00010-diy-A2.png
       :alt: Placeholder screenshot for A2 DIY Step 10 (Add Tags to Security Group)
       :align: center
       :width: 600px
 
 #. In **Configure Security Group**, create a security group named ``Security-Group-Lab-2`` with description ``HTTP Group Lab 2``, adding an **HTTP** rule, then select **Review and Launch**.
 
-   .. image:: pictures/0011-diy-A2.png
+   .. image:: pictures/00011-diy-A2.png
       :alt: Placeholder screenshot for A2 DIY Step 11 (Configure Security Group)
       :align: center
       :width: 600px
 
 #. In **Review Instance Launch**, verify your settings and select **Launch**.
 
-   .. image:: pictures/0012-diy-A2.png
+   .. image:: pictures/00012-diy-A2.png
       :alt: Placeholder screenshot for A2 DIY Step 12 (Review and Launch)
       :align: center
       :width: 600px
 
 #. Select **Proceed without a key pair**, acknowledge the warning, and select **Launch Instances**.
 
-   .. image:: pictures/0013-diy-A2.png
+   .. image:: pictures/00013-diy-A2.png
       :alt: Placeholder screenshot for A2 DIY Step 13 (Key Pair selection)
       :align: center
       :width: 600px
