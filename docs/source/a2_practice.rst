@@ -106,7 +106,7 @@ After completing Plan, the player prepares for Practice by taking the following 
    * For **AWS Region**, enter ``US East (N. Virginia) us-east-1``.
    * *Note: The bucket name is unique. Once set, it cannot be reset.*
 
-   .. image:: pictures/0010-practice.png
+   .. image:: pictures/00010-practice.png
       :alt: Placeholder screenshot for Practice Step 10 (Create Bucket details)
       :align: center
       :width: 600px
@@ -116,7 +116,7 @@ After completing Plan, the player prepares for Practice by taking the following 
    * Read step 7 of **Cloud Computing Essentials**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: pictures/0011-practice.png
+   .. image:: pictures/00011-practice.png
       :alt: Placeholder screenshot for Practice Step 11 (Read Step 7)
       :align: center
       :width: 600px
@@ -126,7 +126,7 @@ After completing Plan, the player prepares for Practice by taking the following 
    * Select **ACLs enabled**.
    * Select **Object writer**.
 
-   .. image:: pictures/0012-practice.png
+   .. image:: pictures/00012-practice.png
       :alt: Placeholder screenshot for Practice Step 12 (Object Ownership settings)
       :align: center
       :width: 600px
@@ -137,7 +137,7 @@ After completing Plan, the player prepares for Practice by taking the following 
    * Read **CONCEPT**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: pictures/0013-practice.png
+   .. image:: pictures/00013-practice.png
       :alt: Placeholder screenshot for Practice Step 13 (Read Step 8)
       :align: center
       :width: 600px
@@ -147,7 +147,7 @@ After completing Plan, the player prepares for Practice by taking the following 
    * Uncheck **Block all public access**.
    * Select **I acknowledge…**.
 
-   .. image:: pictures/0014-practice.png
+   .. image:: pictures/00014-practice.png
       :alt: Placeholder screenshot for Practice Step 14 (Uncheck Block Public Access)
       :align: center
       :width: 600px
@@ -158,7 +158,7 @@ After completing Plan, the player prepares for Practice by taking the following 
    * Read **CONCEPT**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: pictures/0015-practice.png
+   .. image:: pictures/00015-practice.png
       :alt: Placeholder screenshot for Practice Step 15 (Read Step 9)
       :align: center
       :width: 600px
@@ -169,7 +169,7 @@ After completing Plan, the player prepares for Practice by taking the following 
    * Select **Amazon S3-managed keys (SSE-S3)**.
    * Select **Create bucket** (to finalize creation).
 
-   .. image:: pictures/0016-practice.png
+   .. image:: pictures/00016-practice.png
       :alt: Placeholder screenshot for Practice Step 16 (Default Encryption & Final Create Bucket)
       :align: center
       :width: 600px
@@ -180,7 +180,7 @@ After completing Plan, the player prepares for Practice by taking the following 
    * Read **CONCEPT**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: pictures/0017-practice.png
+   .. image:: pictures/00017-practice.png
       :alt: Placeholder screenshot for Practice Step 17 (Read Step 10)
       :align: center
       :width: 600px
@@ -189,7 +189,7 @@ After completing Plan, the player prepares for Practice by taking the following 
 
    * Select **View details**.
 
-   .. image:: pictures/0018-practice.png
+   .. image:: pictures/00018-practice.png
       :alt: Placeholder screenshot for Practice Step 18 (View Details)
       :align: center
       :width: 600px
@@ -199,7 +199,7 @@ After completing Plan, the player prepares for Practice by taking the following 
    * Read step 11 of **Cloud Computing Essentials**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: pictures/0019-practice.png
+   .. image:: pictures/00019-practice.png
       :alt: Placeholder screenshot for Practice Step 11 (Read Step 11)
       :align: center
       :width: 600px
@@ -208,7 +208,7 @@ After completing Plan, the player prepares for Practice by taking the following 
 
    * Select **Upload**.
 
-   .. image:: pictures/0020-practice.png
+   .. image:: pictures/00020-practice.png
       :alt: Placeholder screenshot for Practice Step 20 (Upload button)
       :align: center
       :width: 600px
@@ -218,7 +218,7 @@ After completing Plan, the player prepares for Practice by taking the following 
    * Read step 12 of **Cloud Computing Essentials**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: pictures/0021-practice.png
+   .. image:: pictures/00021-practice.png
       :alt: Placeholder screenshot for Practice Step 12 (Read Step 12)
       :align: center
       :width: 600px
@@ -229,7 +229,7 @@ After completing Plan, the player prepares for Practice by taking the following 
    * Select uploaded files extracted from **labcode.zip**.
    * Select **Upload** (to start the upload).
 
-   .. image:: pictures/0022-practice.png
+   .. image:: pictures/00022-practice.png
       :alt: Placeholder screenshot for Practice Step 22 (Add & Upload files)
       :align: center
       :width: 600px
@@ -240,7 +240,7 @@ After completing Plan, the player prepares for Practice by taking the following 
    * Read **CONCEPT**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: pictures/0023-practice.png
+   .. image:: pictures/00023-practice.png
       :alt: Placeholder screenshot for Practice Step 23 (Read Step 13)
       :align: center
       :width: 600px
@@ -250,7 +250,7 @@ After completing Plan, the player prepares for Practice by taking the following 
    * View successfully uploaded files.
    * Select **Close**.
 
-   .. image:: pictures/0024-practice.png
+   .. image:: pictures/00024-practice.png
       :alt: Placeholder screenshot for Practice Step 24 (View Uploaded Files)
       :align: center
       :width: 600px
@@ -260,8 +260,8 @@ After completing Plan, the player prepares for Practice by taking the following 
    * Read step 14 of **Cloud Computing Essentials**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: pictures/0025-practice.png
-      :alt: Placeholder screenshot for Practice Step 25 (Read Step 14)
+   .. image:: pictures/00025-practice.png
+      :alt: Placeholder screenshot for Practice Step 14 (Read Step 14)
       :align: center
       :width: 600px
 
@@ -271,7 +271,7 @@ After completing Plan, the player prepares for Practice by taking the following 
    * Select **Actions**.
    * View the **Edit actions**.
 
-   .. image:: pictures/0026-practice.png
+   .. image:: pictures/00026-practice.png
       :alt: Placeholder screenshot for Practice Step 26 (File Actions)
       :align: center
       :width: 600px
@@ -282,7 +282,7 @@ After completing Plan, the player prepares for Practice by taking the following 
    * Read **CONCEPT**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: pictures/0027-practice.png
+   .. image:: pictures/00027-practice.png
       :alt: Placeholder screenshot for Practice Step 15 (Read Step 15)
       :align: center
       :width: 600px
@@ -291,7 +291,7 @@ After completing Plan, the player prepares for Practice by taking the following 
 
    * Select **Properties**.
 
-   .. image:: pictures/0028-practice.png
+   .. image:: pictures/00028-practice.png
       :alt: Placeholder screenshot for Practice Step 28 (Properties tab)
       :align: center
       :width: 600px
@@ -301,7 +301,7 @@ After completing Plan, the player prepares for Practice by taking the following 
    * Read step 16 of **Cloud Computing Essentials**.
    * Select the arrow to the right to see next steps.
 
-   .. image:: pictures/0029-practice.png
+   .. image:: pictures/00029-practice.png
       :alt: Placeholder screenshot for Practice Step 16 (Read Step 16)
       :align: center
       :width: 600px
@@ -309,7 +309,7 @@ After completing Plan, the player prepares for Practice by taking the following 
 #. In the **Amazon S3** interface:
    * Select **Edit** (for Static Website Hosting).
 
-   .. image:: pictures/0030-practice.png
+   .. image:: pictures/00030-practice.png
       :alt: Placeholder screenshot for Practice Step 30 (Edit Static Hosting)
       :align: center
       :width: 600px
@@ -320,7 +320,7 @@ After completing Plan, the player prepares for Practice by taking the following 
    * Read **CONCEPT**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: pictures/0031-practice.png
+   .. image:: pictures/00031-practice.png
       :alt: Placeholder screenshot for Practice Step 17 (Read Step 17)
       :align: center
       :width: 600px
@@ -331,7 +331,7 @@ After completing Plan, the player prepares for Practice by taking the following 
    * Select **Host a static website**.
    * In **Index document**, enter ``index.html``.
 
-   .. image:: pictures/0032-practice.png
+   .. image:: pictures/00032-practice.png
       :alt: Placeholder screenshot for Practice Step 32 (Configure Static Hosting)
       :align: center
       :width: 600px
@@ -341,7 +341,7 @@ After completing Plan, the player prepares for Practice by taking the following 
    * Read step 18 of **Cloud Computing Essentials**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: pictures/0033-practice.png
+   .. image:: pictures/00033-practice.png
       :alt: Placeholder screenshot for Practice Step 18 (Read Step 18)
       :align: center
       :width: 600px
@@ -349,7 +349,7 @@ After completing Plan, the player prepares for Practice by taking the following 
 #. In the **Amazon S3** interface:
    * Select **Save changes** (for static hosting).
 
-   .. image:: pictures/0034-practice.png
+   .. image:: pictures/00034-practice.png
       :alt: Placeholder screenshot for Practice Step 34 (Save Static Hosting)
       :align: center
       :width: 600px
@@ -360,7 +360,7 @@ After completing Plan, the player prepares for Practice by taking the following 
    * Read **CONCEPT**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: pictures/0035-practice.png
+   .. image:: pictures/00035-practice.png
       :alt: Placeholder screenshot for Practice Step 19 (Read Step 19)
       :align: center
       :width: 600px
@@ -371,7 +371,7 @@ After completing Plan, the player prepares for Practice by taking the following 
    * View **Block all public access** status.
    * Select **Edit** (for bucket policy).
 
-   .. image:: pictures/0036-practice.png
+   .. image:: pictures/00036-practice.png
       :alt: Placeholder screenshot for Practice Step 36 (Edit Permissions/Policy)
       :align: center
       :width: 600px
@@ -382,7 +382,7 @@ After completing Plan, the player prepares for Practice by taking the following 
    * Read **CONCEPT**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: pictures/0037-practice.png
+   .. image:: pictures/00037-practice.png
       :alt: Placeholder screenshot for Practice Step 37 (Read Step 20)
       :align: center
       :width: 600px
@@ -392,7 +392,7 @@ After completing Plan, the player prepares for Practice by taking the following 
    * Copy **Bucket ARN**.
    * Remove existing **Policy**.
 
-   .. image:: pictures/0038-practice.png
+   .. image:: pictures/00038-practice.png
       :alt: Placeholder screenshot for Practice Step 38 (Edit Bucket Policy - initial)
       :align: center
       :width: 600px
@@ -402,7 +402,7 @@ After completing Plan, the player prepares for Practice by taking the following 
    * Read step 21 of **Cloud Computing Essentials**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: pictures/0039-practice.png
+   .. image:: pictures/00039-practice.png
       :alt: Placeholder screenshot for Practice Step 21 (Read Step 21)
       :align: center
       :width: 600px
@@ -414,7 +414,7 @@ After completing Plan, the player prepares for Practice by taking the following 
    * Copy the contents of the file **policy.txt**.
    * Paste in **Policy** editor.
 
-   .. image:: pictures/0040-practice.png
+   .. image:: pictures/00040-practice.png
       :alt: Placeholder screenshot for Practice Step 40 (Edit Bucket Policy - pasting policy)
       :align: center
       :width: 600px
@@ -424,7 +424,7 @@ After completing Plan, the player prepares for Practice by taking the following 
    * Read step 22 of **Cloud Computing Essentials**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: pictures/0041-practice.png
+   .. image:: pictures/00041-practice.png
       :alt: Placeholder screenshot for Practice Step 22 (Read Step 22)
       :align: center
       :width: 600px
@@ -433,7 +433,7 @@ After completing Plan, the player prepares for Practice by taking the following 
 
    * Copy the contents of the file **policy.txt**. *(This step might be redundant depending on context, but included as provided)*
 
-   .. image:: pictures/0042-practice.png
+   .. image:: pictures/00042-practice.png
       :alt: Placeholder screenshot for Practice Step 42 (Copy policy.txt - S3 Interface?)
       :align: center
       :width: 600px
@@ -444,7 +444,7 @@ After completing Plan, the player prepares for Practice by taking the following 
    * Read **CONCEPT**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: pictures/0043-practice.png
+   .. image:: pictures/00043-practice.png
       :alt: Placeholder screenshot for Practice Step 23 (Read Step 23)
       :align: center
       :width: 600px
@@ -453,7 +453,7 @@ After completing Plan, the player prepares for Practice by taking the following 
 
    * Select **Save changes** (for bucket policy).
 
-   .. image:: pictures/0044-practice.png
+   .. image:: pictures/00044-practice.png
       :alt: Placeholder screenshot for Practice Step 44 (Save Bucket Policy)
       :align: center
       :width: 600px
@@ -464,7 +464,7 @@ After completing Plan, the player prepares for Practice by taking the following 
    * Read **CONCEPT**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: pictures/0045-practice.png
+   .. image:: pictures/00045-practice.png
       :alt: Placeholder screenshot for Practice Step 24 (Read Step 24)
       :align: center
       :width: 600px
@@ -472,7 +472,7 @@ After completing Plan, the player prepares for Practice by taking the following 
 #. In the **Amazon S3** interface:
    * Select **Properties**.
 
-   .. image:: pictures/0046-practice.png
+   .. image:: pictures/00046-practice.png
       :alt: Placeholder screenshot for Practice Step 46 (Return to Properties)
       :align: center
       :width: 600px
@@ -482,7 +482,7 @@ After completing Plan, the player prepares for Practice by taking the following 
    * Read step 25 of **Cloud Computing Essentials**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: pictures/0047-practice.png
+   .. image:: pictures/00047-practice.png
       :alt: Placeholder screenshot for Practice Step 25 (Read Step 25)
       :align: center
       :width: 600px
@@ -492,7 +492,7 @@ After completing Plan, the player prepares for Practice by taking the following 
    * See **Hosting type**.
    * Copy **Bucket website endpoint**.
 
-   .. image:: pictures/0048-practice.png
+   .. image:: pictures/00048-practice.png
       :alt: Placeholder screenshot for Practice Step 48 (Get Website Endpoint)
       :align: center
       :width: 600px
@@ -502,7 +502,7 @@ After completing Plan, the player prepares for Practice by taking the following 
    * Read step 26 of **Cloud Computing Essentials**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: pictures/0049-practice.png
+   .. image:: pictures/00049-practice.png
       :alt: Placeholder screenshot for Practice Step 26 (Read Step 26)
       :align: center
       :width: 600px
@@ -513,14 +513,14 @@ After completing Plan, the player prepares for Practice by taking the following 
    * Select **Enter**.
    * View results.
 
-   .. image:: pictures/0050-practice.png
+   .. image:: pictures/00050-practice.png
       :alt: Placeholder screenshot for Practice Step 50 (Test Website)
       :align: center
       :width: 600px
 
 #. Congratulations to the player on completing the lab!
 
-   .. image:: pictures/0051-practice.png
+   .. image:: pictures/00051-practice.png
       :alt: Placeholder screenshot for Practice Step 51 (Congratulations)
       :align: center
       :width: 600px
