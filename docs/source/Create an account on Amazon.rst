@@ -10,13 +10,17 @@ Steps to create an Amazon account
 
 #. Open the app or go to the official website Amazon.
 
-   .. image:: ../images/0001-createanaccountonAmazon.png
-      :alt: Create Amazon Account
+.. image:: pictures/0001-createanaccountonAmazon.png
+   :alt: Screenshot of AWS Cloud Quest
+   :align: center
+   :width: 600px
 
 #. Select **Create a new Amazon account**.
 
-   .. figure:: ../images/create_account_2.png
-      :alt: Create Amazon Account
+.. image:: pictures/0002-createanaccountonAmazon.png
+   :alt: Screenshot of AWS Cloud Quest
+   :align: center
+   :width: 600px
 
 #. Enter **User name**.
 #. Enter **Mobile number and Email address to connect**.
@@ -24,14 +28,18 @@ Steps to create an Amazon account
 #. Enter **Re-enter password**.
 #. Next, select **Verify**.
 
-   .. figure:: ../images/create_account_3.png
-      :alt: Create Amazon Account
+.. image:: pictures/0003-createanaccountonAmazon.png
+   :alt: Screenshot of AWS Cloud Quest
+   :align: center
+   :width: 600px
 
 #. A new page appears, enter the six-digit OTP in the space provided.
 #. Select **Create your Amazon account**.
 
-   .. figure:: ../images/create_account_4.png
-      :alt: Create Amazon Account
+.. image:: pictures/0004-createanaccountonAmazon.png
+   :alt: Screenshot of AWS Cloud Quest
+   :align: center
+   :width: 600px
 
 .. note::
 
