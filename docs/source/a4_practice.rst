@@ -14,10 +14,11 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. In the **Practice** interface, perform these actions:
+
    * Read step 1 of **Networking Concepts**.
-   * Review the **CONCEPT**.
-   * Select **START LAB**.
-   * Use the right arrow to view the subsequent steps.
+   * Examine the **CONCEPT**.
+   * Choose **START LAB**.
+   * Advance to the next steps using the right arrow.
 
    .. image:: pictures/0002-practice-A4.png
       :alt: Placeholder screenshot for A4 Practice Step 2 (Read Step 1 and Start Lab)
@@ -25,17 +26,19 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. Within the **Practice** interface:
-   * Read step 3 of **Networking Concepts**.
-   * Review the **CONCEPT**.
+
+   * Read step 2 of **Networking Concepts**.
+   * Examine the **CONCEPT**.
    * Select **Open AWS Console**.
-   * Use the right arrow to see the next steps.
+   * Proceed to the next steps with the right arrow.
 
    .. image:: pictures/0003-practice-A4.png
-      :alt: Placeholder screenshot for A4 Practice Step 3 (Read Step 3 and Open Console)
+      :alt: Placeholder screenshot for A4 Practice Step 3 (Read Step 2 and Open Console)
       :align: center
       :width: 600px
 
 #. In the **AWS Console** interface:
+
    * Locate **EC2**.
    * Select **EC2**.
 
@@ -45,8 +48,9 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. Back in the **Practice** interface:
+
    * Read step 3 of **Networking Concepts** again.
-   * Select the right arrow to see the next steps.
+   * Select the arrow to the right to see the next steps.
 
    .. image:: pictures/0005-practice-A4.png
       :alt: Placeholder screenshot for A4 Practice Step 5 (Read Step 3 again)
@@ -61,6 +65,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. In the **Practice** interface:
+
    * Read step 4 of **Networking Concepts**.
    * Select the arrow to the right to see the next steps.
 
@@ -70,6 +75,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. In the **EC2** interface:
+
    * Select the **Web Server** instance.
    * Copy the **Public IPv4 address**.
 
@@ -79,6 +85,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. In the **Practice** interface:
+
    * Read step 5 of **Networking Concepts**.
    * Select the right arrow to see the next steps.
 
@@ -88,6 +95,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. Open your browser:
+
    * Paste the **Public IPv4 address**.
    * View the results returned.
 
@@ -97,6 +105,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. In the **Practice** interface:
+
    * Read step 6 of **Networking Concepts**.
    * Review the **CONCEPT**.
    * Select the arrow to the right to see the next step.
@@ -107,6 +116,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. In the **EC2** interface:
+
    * Select the **Web Server** instance.
    * Select **Networking**.
    * In the **Networking** details, view the **Public IPv4 address** and **Private IPv4 addresses**.
@@ -117,6 +127,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. In the **Practice** interface:
+
    * Read step 7 of **Networking Concepts**.
    * Review the **CONCEPT**.
    * Select the right arrow to see the next steps.
@@ -127,6 +138,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. In the **EC2** interface:
+
    * Select the **Web Server** instance.
    * Select **Networking**.
    * Select the **Subnet ID**.
@@ -137,6 +149,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. In the **Practice** interface:
+
    * Read step 8 of **Networking Concepts**.
    * Review the **CONCEPT**.
    * Select the right arrow to see the next steps.
@@ -147,6 +160,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. In the **Subnet** interface:
+
    * Select **network-concepts**.
    * Select **Route table**.
    * Choose the name of the **Route table**.
@@ -157,6 +171,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. In the **Practice** interface:
+
    * Read step 9 of **Networking Concepts**.
    * Review the **CONCEPT**.
    * Select the right arrow to see the next steps.
@@ -167,6 +182,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. In the **Route tables** interface:
+
    * Choose the name of the **Route table**.
    * Select **Routes**.
    * View details about the **Routes**.
@@ -178,6 +194,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. In the **Practice** interface:
+
    * Read step 10 of **Networking Concepts**.
    * Review the **CONCEPT**.
    * Select the arrow to the right to see the next steps.
@@ -188,6 +205,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. In the **Edit routes** interface:
+
    * View the **NAT gateway**.
    * Select **Remove**.
 
@@ -197,6 +215,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. In the **Practice** interface:
+
    * Read step 11 of **Networking Concepts**.
    * Review the **CONCEPT**.
    * Select the arrow to the right to see the next steps.
@@ -207,6 +226,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. In the **Edit routes** interface:
+
    * Select **Add route**.
    * In **Destination**, enter ``0.0.0.0/0``.
    * In **Target**, select **Internet Gateway**.
@@ -219,6 +239,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. In the **Practice** interface:
+
    * Read step 12 of **Networking Concepts**.
    * Review the **CONCEPT**.
    * Select the arrow to the right to see the next steps.
@@ -229,6 +250,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. In the **Route Tables** interface:
+
    * View the details of the **Route table**.
    * Select **Services**.
 
@@ -238,6 +260,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. In the **Practice** interface:
+
    * Read step 13 of **Networking Concepts**.
    * Select the right arrow to see the next steps.
 
@@ -247,6 +270,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. In the **EC2** interface:
+
    * Select the **Web Server** instance.
    * Select **Security**.
    * Select the **Security group**.
@@ -257,6 +281,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. In the **Practice** interface:
+
    * Read step 14 of **Networking Concepts**.
    * Review the **CONCEPT**.
    * Select the right arrow to see the next steps.
@@ -267,6 +292,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. In the **Security Groups** interface:
+
    * Select **Edit inbound rules**.
 
    .. image:: pictures/00028-practice-A4.png
@@ -275,6 +301,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. In the **Practice** interface:
+
    * Read step 15 of **Networking Concepts**.
    * Review the **CONCEPT**.
    * Select the right arrow to see the next steps.
@@ -285,6 +312,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. In the **Edit inbound rules** interface:
+
    * Select **Add rule**.
 
    .. image:: pictures/00030-practice-A4.png
@@ -293,6 +321,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. In the **Practice** interface:
+
    * Read step 15 of **Networking Concepts** again.
    * Review the **CONCEPT**.
    * Select the right arrow to see the next steps.
@@ -303,6 +332,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. In the **Edit inbound rules** interface:
+
    * For Type, select **HTTP**.
    * For Source, select **Anywhere-IPv4**.
    * Select **Save rules**.
@@ -313,6 +343,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. In the **Practice** interface:
+
    * Read step 16 of **Networking Concepts**.
    * Review the **CONCEPT**.
    * Select the arrow to the right to see the next steps.
@@ -323,6 +354,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. In the **EC2** interface:
+
    * Select **Instances**.
 
    .. image:: pictures/00034-practice-A4.png
@@ -331,6 +363,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. In the **Practice** interface:
+
    * Read step 18 of **Networking Concepts**.
    * Select the right arrow to see the next steps.
 
@@ -340,6 +373,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. In the **EC2** interface:
+
    * Select the **Web Server** instance.
    * Select **Networking**.
    * Select and copy the **Public IPv4 address**.
@@ -350,6 +384,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. In the **Practice** interface:
+
    * Read step 19 of **Networking Concepts**.
    * Review the **CONCEPT**.
    * Select the right arrow to see the next steps.
@@ -360,6 +395,7 @@ After watching Plan, the player prepares for Practice.
       :width: 600px
 
 #. Open a browser:
+
    * Paste the **Public IPv4 address**.
    * View the returned results.
 
