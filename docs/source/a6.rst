@@ -1,0 +1,67 @@
+.. _a6_connecting_vpcs:
+
+=============================
+A6 - Connecting Amazon VPCs
+=============================
+
+Overview
+--------
+Lab #6 of AWS Cloud Quest: Cloud Practitioner is Connecting Amazon VPCs.
+
+Content
+--------
+.. toctree::
+    :maxdepth: 2
+    :caption: Content
+
+    a6_learn
+    a6_plan
+    a6_practice
+    a6_diy
+
+
+Perform
+--------
+Follow these initial steps to access the A6 challenge:
+
+#. In **ASSIGNMENTS**:
+
+   * Select **ROUTE AND GO**.
+
+   .. image:: pictures/0001-A6.png
+      :alt: Placeholder screenshot for A6 Step 1 (Route and Go)
+      :align: center
+      :width: 600px
+
+#. Select the **!** icon.
+
+   .. image:: pictures/0002-A6.png
+      :alt: Placeholder screenshot for A6 Step 2 (Select the ! icon)
+      :align: center
+      :width: 600px
+
+#. Select **NEXT**:
+
+   * View your **Rewards**.
+
+   .. image:: pictures/0003-A6.png
+      :alt: Placeholder screenshot for A6 Step 3 (Select NEXT)
+      :align: center
+      :width: 600px
+
+#. Select **ACCEPT**.
+
+   .. image:: pictures/0004-A6.png
+      :alt: Placeholder screenshot for A6 Step 4 (View Rewards)
+      :align: center
+      :width: 600px
+
+
+#. See **Solution Annotations**:
+
+   * Select **GO TO SOLUTION CENTER**.
+
+   .. image:: pictures/0005-A6.png
+      :alt: Placeholder screenshot for A6 Step 5 (Select ACCEPT)
+      :align: center
+      :width: 600px
