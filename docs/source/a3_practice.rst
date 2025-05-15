@@ -91,10 +91,9 @@ After watching Plan, the player prepares for Practice.
       :align: center
       :width: 600px
 
-#. In the **EC2** interface:
-   * Select **Instance Types**.
+#. In the **EC2** interface, select **Instance Types**.
 
-   .. image:: pictures/0010-practice-A3.png
+   .. image:: pictures/00010-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 10 (Select Instance Types)
       :align: center
       :width: 600px
@@ -104,7 +103,7 @@ After watching Plan, the player prepares for Practice.
    * Examine the **CONCEPT**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: pictures/0011-practice-A3.png
+   .. image:: pictures/00011-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 11 (Read Step 6)
       :align: center
       :width: 600px
@@ -113,7 +112,7 @@ After watching Plan, the player prepares for Practice.
    * Select **Instance Types**.
    * Examine the details for: ``t3.large``, ``c5.large``, and ``r5.large``.
 
-   .. image:: pictures/0012-practice-A3.png
+   .. image:: pictures/00012-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 12 (Choose Instance Types)
       :align: center
       :width: 600px
@@ -123,7 +122,7 @@ After watching Plan, the player prepares for Practice.
    * Examine the **CONCEPT**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: pictures/0013-practice-A3.png
+   .. image:: pictures/00013-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 13 (Read Step 7)
       :align: center
       :width: 600px
@@ -133,16 +132,16 @@ After watching Plan, the player prepares for Practice.
    * Examine the **CONCEPT**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: pictures/0014-practice-A3.png
+   .. image:: pictures/00014-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 14 (Read Step 8)
       :align: center
       :width: 600px
 
 #. In the **EC2** interface:
-   * Select **AWS Computing Solutions** instance.
+   * Select the **AWS Computing Solutions** instance.
    * From the Details section, copy the **Public IPv4 address**.
 
-   .. image:: pictures/0015-practice-A3.png
+   .. image:: pictures/00015-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 15 (Copy Public IPv4)
       :align: center
       :width: 600px
@@ -152,7 +151,7 @@ After watching Plan, the player prepares for Practice.
    * Read **CONCEPT**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: pictures/0016-practice-A3.png
+   .. image:: pictures/00016-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 16 (Read Step 9)
       :align: center
       :width: 600px
@@ -161,7 +160,7 @@ After watching Plan, the player prepares for Practice.
    * Paste the **Public IPv4 address**.
    * View the detailed results for the instance.
 
-   .. image:: pictures/0017-practice-A3.png
+   .. image:: pictures/00017-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 17 (Open browser and paste IP)
       :align: center
       :width: 600px
@@ -171,7 +170,7 @@ After watching Plan, the player prepares for Practice.
    * Read **CONCEPT**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: pictures/0018-practice-A3.png
+   .. image:: pictures/00018-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 18 (Read Step 10)
       :align: center
       :width: 600px
@@ -179,7 +178,7 @@ After watching Plan, the player prepares for Practice.
 #. In the **EC2** interface:
    * Select **Connect**.
 
-   .. image:: pictures/0019-practice-A3.png
+   .. image:: pictures/00019-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 19 (Select Connect)
       :align: center
       :width: 600px
@@ -189,7 +188,7 @@ After watching Plan, the player prepares for Practice.
    * Read **CONCEPT**.
    * Select the right arrow to see the next steps.
 
-   .. image:: pictures/0020-practice-A3.png
+   .. image:: pictures/00020-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 20 (Read Step 11)
       :align: center
       :width: 600px
@@ -198,7 +197,7 @@ After watching Plan, the player prepares for Practice.
    * Note the **Public IP address**.
    * Select **Session Manager**.
 
-   .. image:: pictures/0021-practice-A3.png
+   .. image:: pictures/00021-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 21 (View IP and Select Session Manager)
       :align: center
       :width: 600px
@@ -208,7 +207,7 @@ After watching Plan, the player prepares for Practice.
    * Read **CONCEPT**.
    * Select the right arrow to see the next steps.
 
-   .. image:: pictures/0022-practice-A3.png
+   .. image:: pictures/00022-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 22 (Read Step 12)
       :align: center
       :width: 600px
@@ -217,7 +216,7 @@ After watching Plan, the player prepares for Practice.
    * Review **Session Manager** usage information.
    * Select the **SSH client** tab.
 
-   .. image:: pictures/0023-practice-A3.png
+   .. image:: pictures/00023-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 23 (View Session Manager usage and Select SSH Client)
       :align: center
       :width: 600px
@@ -227,7 +226,7 @@ After watching Plan, the player prepares for Practice.
    * Read **CONCEPT**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: pictures/0024-practice-A3.png
+   .. image:: pictures/00024-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 24 (Read Step 13)
       :align: center
       :width: 600px
@@ -236,7 +235,7 @@ After watching Plan, the player prepares for Practice.
    * Review the connection information and steps.
    * Select **EC2 Instance Connect**.
 
-   .. image:: pictures/0025-practice-A3.png
+   .. image:: pictures/00025-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 25 (View info and Select EC2 Instance Connect)
       :align: center
       :width: 600px
@@ -246,7 +245,7 @@ After watching Plan, the player prepares for Practice.
    * Read **CONCEPT**.
    * Select the right arrow to see the next steps.
 
-   .. image:: pictures/0026-practice-A3.png
+   .. image:: pictures/00026-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 26 (Read Step 14)
       :align: center
       :width: 600px
@@ -254,14 +253,14 @@ After watching Plan, the player prepares for Practice.
 #. In the **EC2** interface:
    * Select **Connect**.
 
-   .. image:: pictures/0027-practice-A3.png
+   .. image:: pictures/00027-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 27a (Select Connect button)
       :align: center
       :width: 600px
 
    * After connecting to the instance, proceed.
 
-   .. image:: pictures/0028-practice-A3.png
+   .. image:: pictures/00028-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 27b (After Connect)
       :align: center
       :width: 600px
@@ -270,7 +269,7 @@ After watching Plan, the player prepares for Practice.
    * Read step 15 of **Computing Solutions**.
    * Select the right arrow to see the next steps.
 
-   .. image:: pictures/0029-practice-A3.png
+   .. image:: pictures/00029-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 28 (Read Step 15)
       :align: center
       :width: 600px
@@ -280,7 +279,7 @@ After watching Plan, the player prepares for Practice.
    * Enter the command ``ls``.
    * Enter the command ``tail -lf aws_copute_solutions.log``.
 
-   .. image:: pictures/0030-practice-A3.png
+   .. image:: pictures/00030-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 29 (Enter commands in Command Prompt)
       :align: center
       :width: 600px
@@ -290,7 +289,7 @@ After watching Plan, the player prepares for Practice.
    * Read **CONCEPT**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: pictures/0031-practice-A3.png
+   .. image:: pictures/00031-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 30 (Read Step 16)
       :align: center
       :width: 600px
@@ -300,7 +299,7 @@ After watching Plan, the player prepares for Practice.
    * Choose **Instance settings**.
    * Select **Edit user data**.
 
-   .. image:: pictures/0032-practice-A3.png
+   .. image:: pictures/00032-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 31 (Edit User Data)
       :align: center
       :width: 600px
@@ -310,7 +309,7 @@ After watching Plan, the player prepares for Practice.
    * Read **CONCEPT**.
    * Select the right arrow to see the next steps.
 
-   .. image:: pictures/0033-practice-A3.png
+   .. image:: pictures/00033-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 32 (Read Step 17)
       :align: center
       :width: 600px
@@ -319,7 +318,7 @@ After watching Plan, the player prepares for Practice.
    * Examine the **User data** currently linked to this instance.
    * Select **Cancel**.
 
-   .. image:: pictures/0034-practice-A3.png
+   .. image:: pictures/00034-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 33 (View User Data)
       :align: center
       :width: 600px
@@ -329,7 +328,7 @@ After watching Plan, the player prepares for Practice.
    * Read **CONCEPT**.
    * Select the right arrow to see the next steps.
 
-   .. image:: pictures/0035-practice-A3.png
+   .. image:: pictures/00035-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 34 (Read Step 18)
       :align: center
       :width: 600px
@@ -339,7 +338,7 @@ After watching Plan, the player prepares for Practice.
    * Choose **Instance state**.
    * Select **Stop instance**.
 
-   .. image:: pictures/0036-practice-A3.png
+   .. image:: pictures/00036-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 35 (Stop Instance)
       :align: center
       :width: 600px
@@ -349,7 +348,7 @@ After watching Plan, the player prepares for Practice.
    * Read **CONCEPT**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: pictures/0037-practice-A3.png
+   .. image:: pictures/00037-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 36 (Read Step 19)
       :align: center
       :width: 600px
@@ -357,7 +356,7 @@ After watching Plan, the player prepares for Practice.
 #. In the **EC2** interface:
    * Select **Stop** to confirm the stop action.
 
-   .. image:: pictures/0038-practice-A3.png
+   .. image:: pictures/00038-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 37 (Confirm Stop Instance)
       :align: center
       :width: 600px
@@ -367,7 +366,7 @@ After watching Plan, the player prepares for Practice.
    * Read **CONCEPT**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: pictures/0039-practice-A3.png
+   .. image:: pictures/00039-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 38 (Read Step 20)
       :align: center
       :width: 600px
@@ -377,7 +376,7 @@ After watching Plan, the player prepares for Practice.
    * Select **Instance state**.
    * Choose **Start instance**.
 
-   .. image:: pictures/0040-practice-A3.png
+   .. image:: pictures/00040-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 39 (Start Instance)
       :align: center
       :width: 600px
@@ -386,7 +385,7 @@ After watching Plan, the player prepares for Practice.
    * Read step 21 of **Computing Solutions**.
    * Select the arrow to the right to see the next step.
 
-   .. image:: pictures/0041-practice-A3.png
+   .. image:: pictures/00041-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 40 (Read Step 21)
       :align: center
       :width: 600px
@@ -394,14 +393,14 @@ After watching Plan, the player prepares for Practice.
 #. In the **EC2** interface:
    * View the instance details.
 
-   .. image:: pictures/0042-practice-A3.png
+   .. image:: pictures/00042-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 41 (View Instance Details again)
       :align: center
       :width: 600px
 
 #. Completing the Lab.
 
-   .. image:: pictures/0043-practice-A3.png
+   .. image:: pictures/00043-practice-A3.png
       :alt: Placeholder screenshot for A3 Practice Step 42 (Completing the Lab)
       :align: center
       :width: 600px
