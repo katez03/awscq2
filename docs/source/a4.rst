@@ -14,10 +14,10 @@ Content
 .. toctree::
     :maxdepth: 2
 
-    A4_learn
-    A4_plan
-    A4_practice
-    A4_diy
+    a4_learn
+    a4_plan
+    a4_practice
+    a4_diy
 
 
 Perform
