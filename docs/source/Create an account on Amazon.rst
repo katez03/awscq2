@@ -10,7 +10,7 @@ Steps to create an Amazon account
 
 #. Open the app or go to the official website Amazon.
 
-   .. figure:: ../images/create_account_1.png
+   .. image:: ../images/0001-createanaccountonAmazon.png
       :alt: Create Amazon Account
 
 #. Select **Create a new Amazon account**.
