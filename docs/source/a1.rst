@@ -1,0 +1,76 @@
+.. _a1_static_web_hosting:
+
+==========================
+A1 - Static web hosting
+==========================
+
+Overview
+--------
+In this step we will take the first challenge in Cloud Quest.
+
+Content
+--------
+.. toctree::
+    :maxdepth: 2
+
+    A1_learn
+    A1_plan
+    A1_practice
+    A1_diy
+
+Perform
+--------
+
+#. In the city interface
+   - Select **ASSIGNMENT**
+   - In Cloud Computing Essentials, select **ROUTE AND GO**
+
+   .. image:: pictures/0001-A1.png
+      :alt: Placeholder screenshot of the ! icon
+      :align: center
+      :width: 600px
+
+#. Select the **!** icon to go to the next step
+
+   .. image:: pictures/0002-A1.png
+      :alt: Placeholder screenshot of the NEXT button
+      :align: center
+      :width: 600px
+
+#. Select **NEXT**
+
+   .. image:: pictures/0003-A1.png
+      :alt: Placeholder screenshot of the GO TO SOLUTION CENTER button
+      :align: center
+      :width: 600px
+
+#. In the preparation interface
+   - View **Rewards**
+   - See **Solution Annotations**
+   - Select **ACCEPT**
+
+   .. image:: pictures/0004-A1.png
+      :alt: Placeholder screenshot of the GO TO SOLUTION CENTER button
+      :align: center
+      :width: 600px
+
+#. Select **GO TO SOLUTION CENTER**
+
+   .. image:: pictures/0005-A1.png
+      :alt: Placeholder screenshot of the Welcome to Solution Center screen
+      :align: center
+      :width: 600px
+
+#. Welcome to Solution Center
+
+   .. image:: pictures/0006-A1.png
+      :alt: Placeholder screenshot of Solution Center steps
+      :align: center
+      :width: 600px
+
+#. Steps of Solution Center Steps
+
+   .. image:: pictures/0007-A1.png
+      :alt: Placeholder screenshot of Solution Center steps
+      :align: center
+      :width: 600px
