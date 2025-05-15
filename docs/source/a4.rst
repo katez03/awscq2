@@ -1,0 +1,55 @@
+.. _a4_internet_vpc:
+
+=============================================
+A4 - Internet Access for VPC Resources
+=============================================
+
+Overview
+--------
+Lab #4 of AWS Cloud Quest: Cloud Practitioner is Internet Access for VPC Resources.
+After receiving the Assignment 3 award, continue to perform the following steps to begin Assignment 4.
+
+Content
+--------
+.. toctree::
+    :maxdepth: 2
+
+    A4_learn
+    A4_plan
+    A4_practice
+    A4_diy
+
+
+Perform
+--------
+Follow these initial steps to access the A4 challenge:
+
+#. In **ASSIGNMENT**, perform the following actions:
+   * Under **Networing Concepts**, select **ROUTE AND GO**.
+   * Select the icon as shown.
+
+   .. image:: pictures/0001-A4.png
+      :alt: Placeholder screenshot for A4 Step 1 (Route and Go and Select icon)
+      :align: center
+      :width: 600px
+
+#. Review your **Rewards** and then select **NEXT**.
+
+   .. image:: pictures/0002-A4.png
+      :alt: Placeholder screenshot for A4 Step 2 (View Rewards and Select NEXT)
+      :align: center
+      :width: 600px
+
+#. Examine the **Solution Annotations** and then select **ACCEPT** to take on the challenge.
+
+   .. image:: pictures/0003-A4.png
+      :alt: Placeholder screenshot for A4 Step 3 (View Annotations and Accept)
+      :align: center
+      :width: 600px
+
+#. Select **GO TO SOLUTION CENTER** to proceed with the assignment steps.
+
+   .. image:: pictures/0004-A4.png
+      :alt: Placeholder screenshot for A4 Step 4 (Go to Solution Center)
+      :align: center
+      :width: 600px
