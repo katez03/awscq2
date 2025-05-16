@@ -1,0 +1,56 @@
+.. _12_highly_available:
+
+======================
+A12 - Highly Available
+======================
+
+Overview
+--------
+Lab number 12 of AWS Cloud Quest: Cloud Practitioner is Implementing Highly Available Web Applications.
+
+Content
+--------
+.. toctree::
+    :maxdepth: 2
+
+    A12_learn
+    A12_plan
+    A12_practice
+    A12_diy
+
+#. In the **city interface**:
+
+   * Select **ASSIGNMENTS**.
+   * Select **ROUTE AND GO**.
+
+   .. image:: pictures/0001-A12.png
+      :alt: City interface showing Assignments and Route and Go options.
+      :align: center
+      :width: 600px
+
+#. In the **Highly Available Web Applications** interface:
+
+   * View your **Rewards**.
+   * Select **NEXT**.
+
+   .. image:: pictures/0002-A12.png
+      :alt: Lab interface showing rewards and next button.
+      :align: center
+      :width: 600px
+
+#. In the **Highly Available Web Applications** interface:
+
+   * Read the **Solution Annotations**.
+   * Select **ACCEPT**.
+
+   .. image:: pictures/0003-A12.png
+      :alt: Lab interface showing solution annotations and accept button.
+      :align: center
+      :width: 600px
+
+#. Select **GO TO SOLUTION CENTER**.
+
+   .. image:: pictures/0004-A12.png
+      :alt: Button to go to Solution Center.
+      :align: center
+      :width: 600px
