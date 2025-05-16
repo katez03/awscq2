@@ -43,14 +43,14 @@ Content
    * Read the **Solution Annotations**.
    * Select **ACCEPT**.
 
-   .. image:: pictures/0003-A12.png
+   .. image:: pictures/0003--A12.png
       :alt: Lab interface showing solution annotations and accept button.
       :align: center
       :width: 600px
 
 #. Select **GO TO SOLUTION CENTER**.
 
-   .. image:: pictures/0004-A12.png
+   .. image:: pictures/0004--A12.png
       :alt: Button to go to Solution Center.
       :align: center
       :width: 600px
