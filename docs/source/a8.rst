@@ -13,10 +13,10 @@ Content
 .. toctree::
     :maxdepth: 2
 
-    A8_learn
-    A8_plan
-    A8_practice
-    A8_diy
+    a8_learn
+    a8_plan
+    a8_practice
+    a8_diy
 
 #. In the **city interface**:
 
