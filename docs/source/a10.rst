@@ -1,0 +1,57 @@
+.. _a10_nosql_databases:
+
+=====================
+A10 - NoSQL Databases
+=====================
+
+Overview
+--------
+AWS Cloud Quest: Cloud Practitioner’s 10th lab is Creating and Querying an Amazon DynamoDB Table.
+
+Content
+--------
+.. toctree::
+    :maxdepth: 2
+
+    A10_learn
+    A10_plan
+    A10_practice
+    A10_diy
+
+#. In the **city interface**:
+
+   * Select **ASSIGNMENTS**.
+   * Select **ROUTE AND GO**.
+   * Select the ``!`` icon.
+
+   .. image:: pictures/0001-A10.png
+      :alt: City interface showing assignments, route and go, and ! icon.
+      :align: center
+      :width: 600px
+
+#. In the **First NoSQL Database** interface:
+
+   * View your **Rewards**.
+   * Select **NEXT**.
+
+   .. image:: pictures/0002-A10.png
+      :alt: Lab interface showing rewards and next button.
+      :align: center
+      :width: 600px
+
+#. In the **First NoSQL Database** interface:
+
+   * See the **Solution Annotations**.
+   * Select **ACCEPT**.
+
+   .. image:: pictures/0003-A10.png
+      :alt: Lab interface showing solution annotations and accept button.
+      :align: center
+      :width: 600px
+
+#. Select **GO TO SOLUTION CENTER**.
+
+   .. image:: pictures/0004-A10.png
+      :alt: Button to go to Solution Center.
+      :align: center
+      :width: 600px
