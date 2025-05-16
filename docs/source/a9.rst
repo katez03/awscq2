@@ -1,0 +1,67 @@
+.. _a9_file_systems:
+
+==================
+A9 - File Systems
+==================
+
+Overview
+--------
+Lab number 9 of AWS Cloud Quest: Cloud Practitioner is File System in the Cloud using Amazon EFS.
+
+Content
+--------
+.. toctree::
+    :maxdepth: 2
+
+    a9_learn
+    a9_plan
+    a9_practice
+    a9_diy
+
+#. In the **city interface**:
+
+   * Select **ASSIGNMENTS**.
+   * Select **ROUTE AND GO**.
+
+   .. image:: pictures/0001-A9.png
+      :alt: City interface showing Assignments and Route and Go options.
+      :align: center
+      :width: 600px
+
+#. In the **city interface**:
+
+   * Select the ``!`` icon.
+
+   .. image:: pictures/0002-A9.png
+      :alt: City interface showing the exclamation mark icon.
+      :align: center
+      :width: 600px
+
+#. In the **File System in the Cloud** interface:
+
+   * View your **Rewards**.
+   * Select **NEXT**.
+
+   .. image:: pictures/0003-A9.png
+      :alt: File System in the Cloud interface showing rewards and next button.
+      :align: center
+      :width: 600px
+
+#. In the **File Systems in the Cloud** interface:
+
+   * See the **Solution Annotations**.
+   * Select **ACCEPT**.
+
+   .. image:: pictures/0004-A9.png
+      :alt: File Systems in the Cloud interface showing solution annotations and accept button.
+      :align: center
+      :width: 600px
+
+#. In the **File Systems in the Cloud** interface:
+
+   * Select **GO TO SOLUTION CENTER** to prepare for the next steps.
+
+   .. image:: pictures/0005-A9.png
+      :alt: File Systems in the Cloud interface showing Go To Solution Center button.
+      :align: center
+      :width: 600px
