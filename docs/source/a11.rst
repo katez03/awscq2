@@ -1,0 +1,53 @@
+.. _scaling:
+
+============
+A11 - Scaling
+============
+
+Overview
+--------
+The 11th lab of AWS Cloud Quest: Cloud Practitioner is Configuring EC2 Auto Scaling.
+
+Content
+--------
+.. toctree::
+    :maxdepth: 2
+
+    A11_learn
+    A11_plan
+    A11_practice
+    A11_diy
+
+#. In the **city interface**:
+
+   * Select **ASSIGNMENTS**.
+   * Select **ROUTE AND GO**.
+
+   .. image:: pictures/0001-A11.png
+      :alt: City interface showing Assignments and Route and Go options.
+      :align: center
+      :width: 600px
+
+#. In the **Auto-healing and Scaling Applications** interface:
+
+   * View your **Rewards**.
+   * Select **NEXT**.
+
+   .. image:: pictures/0002-A11.png
+      :alt: Lab interface showing rewards and next button.
+      :align: center
+      :width: 600px
+
+#. Select **ACCEPT**.
+
+   .. image:: pictures/0003-A11.png
+      :alt: Interface showing an Accept button.
+      :align: center
+      :width: 600px
+
+#. Select **GO TO SOLUTION CENTER**.
+
+   .. image:: pictures/0004-A11.png
+      :alt: Button to go to Solution Center.
+      :align: center
+      :width: 600px
